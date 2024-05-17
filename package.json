@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This contains all the tutorial of learning react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarthak0085/react.git"
+  },
+  "keywords": [
+    "React",
+    "Learning React"
+  ],
+  "author": "Sarthak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarthak0085/react/issues"
+  },
+  "homepage": "https://github.com/Sarthak0085/react#readme"
+}
